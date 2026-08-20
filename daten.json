@@ -1,0 +1,59 @@
+{
+  "firma": "KLYMA GmbH",
+  "stelle": "Facharbeiter Galabau (m/w/d)",
+  "ort": "Hilden",
+  "farbe_primary": "#FDC70F",
+  "farbe_secondary": "#1D1D1B",
+  "region_badge": "Raum Köln & Ruhrgebiet",
+  "stelle_sub": "Garten- und Landschaftsbauer für Wärmepumpen-Fundamente",
+  "benefit_top": "Sehr gutes Gehalt: 36–48k € pro Jahr – plus voll ausgestatteter Firmenwagen",
+  "benefits": [
+    "Sehr gutes Gehalt (36–48k € pro Jahr)",
+    "Voll ausgestatteter Firmenwagen",
+    "Hochwertiges Werkzeug & hochwertige Arbeitskleidung",
+    "Flexible Arbeitszeiten",
+    "Flache Hierarchien – deine Meinung zählt ab Tag eins",
+    "Strukturierte Abläufe & freundliches Arbeitsklima"
+  ],
+  "aufgaben": [
+    "Du baust die Fundamente für unsere Wärmepumpen und bereitest die Aufstellflächen fachgerecht vor",
+    "Du übernimmst die Erd-, Garten- und Landschaftsbauarbeiten rund um die Anlage – von der Vorbereitung bis zur sauberen Fertigstellung",
+    "Du sorgst mit deinem Team dafür, dass beim Kunden alles reibungslos und termingerecht läuft"
+  ],
+  "anforderung": "Du bist Garten- und Landschaftsbauer oder hast Erfahrung mit dem Bau von Fundamenten – und kommst aus dem Raum Köln oder der Region Bochum/Dortmund/Duisburg.",
+  "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+  "fachrichtungen": [
+    {"label": "Garten- & Landschaftsbau", "icon": "🌿"},
+    {"label": "Fundament- / Betonbau", "icon": "🧱"},
+    {"label": "Anderer Bereich", "icon": "🛠️"}
+  ],
+  "qualifikationen": [
+    {"label": "Ausbildung im GaLaBau", "icon": "🎓"},
+    {"label": "Meister / Techniker", "icon": "🏅"},
+    {"label": "Erfahren ohne Ausbildung", "icon": "💪"},
+    {"label": "Quereinsteiger", "icon": "🔄"}
+  ],
+  "ueber": {
+    "fakten": [
+      {"zahl": "45", "label": "Mitarbeiter"},
+      {"zahl": "2024", "label": "gegründet"},
+      {"zahl": "100 %", "label": "eigenes Team"}
+    ],
+    "text": "KLYMA ist ein Meisterbetrieb aus Hilden, spezialisiert auf Wärmepumpen und Photovoltaik. Das festangestellte, regionale Team setzt alle Projekte selbst um – von der Fundamentlegung bis zur Inbetriebnahme, ganz ohne Subunternehmer."
+  },
+  "kunde_tab": "01 KLYMA GmbH",
+  "quelle": "https://klyma.green-careers.de",
+  "logo": "logo.jpg",
+  "hero_bild": "img/hero.jpg",
+  "bilder": [
+    "img/f1.jpg",
+    "img/f5.jpg",
+    "img/f9.jpg",
+    "img/f7.jpg",
+    "img/f6.jpg",
+    "img/f2.jpg",
+    "img/f3.jpg",
+    "img/f4.jpg",
+    "img/f8.jpg"
+  ]
+}
