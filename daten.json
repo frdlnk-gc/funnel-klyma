@@ -6,9 +6,9 @@
   "farbe_secondary": "#1D1D1B",
   "region_badge": "Raum Köln & Ruhrgebiet",
   "stelle_sub": "Garten- und Landschaftsbauer für Wärmepumpen-Fundamente",
-  "benefit_top": "Sehr gutes Gehalt: 36–48k € pro Jahr – plus voll ausgestatteter Firmenwagen",
+  "benefit_top": "Sehr gutes Gehalt: bis zu 48.000 € pro Jahr – plus voll ausgestatteter Firmenwagen",
   "benefits": [
-    "Sehr gutes Gehalt (36–48k € pro Jahr)",
+    "Sehr gutes Gehalt: bis zu 48.000 € pro Jahr",
     "Voll ausgestatteter Firmenwagen",
     "Hochwertiges Werkzeug & hochwertige Arbeitskleidung",
     "Flexible Arbeitszeiten",
@@ -23,37 +23,97 @@
   "anforderung": "Du bist Garten- und Landschaftsbauer oder hast Erfahrung mit dem Bau von Fundamenten – und kommst aus dem Raum Köln oder der Region Bochum/Dortmund/Duisburg.",
   "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
   "fachrichtungen": [
-    {"label": "Garten- & Landschaftsbau", "icon": "🌿", "qualifikationen": [
-      {"label": "Ausgebildeter Landschaftsgärtner", "icon": "🎓"},
-      {"label": "Meister / Techniker", "icon": "🏅"},
-      {"label": "Erfahren ohne Ausbildung", "icon": "💪"},
-      {"label": "Quereinsteiger", "icon": "🔄"}
-    ]},
-    {"label": "Fundament- / Betonbau", "icon": "🧱", "qualifikationen": [
-      {"label": "Ausgebildeter Betonbauer o. vergleichbar", "icon": "🎓"},
-      {"label": "Meister / Techniker", "icon": "🏅"},
-      {"label": "Erfahren ohne Ausbildung", "icon": "💪"},
-      {"label": "Quereinsteiger", "icon": "🔄"}
-    ]},
-    {"label": "Anderer Bereich", "icon": "🛠️", "qualifikationen": [
-      {"label": "Ausbildung in anderem Gewerk", "icon": "🎓"},
-      {"label": "Meister / Techniker", "icon": "🏅"},
-      {"label": "Erfahren ohne Ausbildung", "icon": "💪"},
-      {"label": "Quereinsteiger", "icon": "🔄"}
-    ]}
+    {
+      "label": "Garten- & Landschaftsbau",
+      "icon": "🌿",
+      "qualifikationen": [
+        {
+          "label": "Ausgebildeter Landschaftsgärtner",
+          "icon": "🎓"
+        },
+        {
+          "label": "Meister / Techniker",
+          "icon": "🏅"
+        },
+        {
+          "label": "Erfahren ohne Ausbildung",
+          "icon": "💪"
+        },
+        {
+          "label": "Quereinsteiger",
+          "icon": "🔄"
+        }
+      ]
+    },
+    {
+      "label": "Fundament- / Betonbau",
+      "icon": "🧱",
+      "qualifikationen": [
+        {
+          "label": "Ausgebildeter Betonbauer o. vergleichbar",
+          "icon": "🎓"
+        },
+        {
+          "label": "Meister / Techniker",
+          "icon": "🏅"
+        },
+        {
+          "label": "Erfahren ohne Ausbildung",
+          "icon": "💪"
+        },
+        {
+          "label": "Quereinsteiger",
+          "icon": "🔄"
+        }
+      ]
+    },
+    {
+      "label": "Anderer Bereich",
+      "icon": "🛠️",
+      "qualifikationen": [
+        {
+          "label": "Ausbildung in anderem Gewerk",
+          "icon": "🎓"
+        },
+        {
+          "label": "Meister / Techniker",
+          "icon": "🏅"
+        },
+        {
+          "label": "Erfahren ohne Ausbildung",
+          "icon": "💪"
+        },
+        {
+          "label": "Quereinsteiger",
+          "icon": "🔄"
+        }
+      ]
+    }
   ],
   "ueber": {
     "fakten": [
-      {"zahl": "45", "label": "Mitarbeiter"},
-      {"zahl": "2024", "label": "gegründet"},
-      {"zahl": "100 %", "label": "eigenes Team"}
+      {
+        "zahl": "45",
+        "label": "Mitarbeiter"
+      },
+      {
+        "zahl": "2024",
+        "label": "gegründet"
+      },
+      {
+        "zahl": "100 %",
+        "label": "eigenes Team"
+      }
     ],
     "text": "KLYMA ist ein Meisterbetrieb aus Hilden, spezialisiert auf Wärmepumpen und Photovoltaik. Das festangestellte, regionale Team setzt alle Projekte selbst um – von der Fundamentlegung bis zur Inbetriebnahme, ganz ohne Subunternehmer."
   },
   "kunde_tab": "01 KLYMA GmbH",
   "quelle": "https://klyma.green-careers.de",
   "logo": "logo.jpg",
-  "karte": {"bild": "img/karte.jpg", "label": "Hilden"},
+  "karte": {
+    "bild": "img/karte.jpg",
+    "label": "Hilden"
+  },
   "hero_bild": "img/hero.jpg",
   "bilder": [
     "img/f1.jpg",

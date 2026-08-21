@@ -11,7 +11,7 @@
 
 - Auf dem Bild NUR: Headline, Subline, Benefit-Häkchen (wo vorgesehen), Standort, das Original-Logo. **NIEMALS:** Telefonnummern, E-Mail-Adressen, Website-URLs, QR-Codes, Personennamen, erfundene Siegel/Logos.
 - **Logo & Fotos exakt wie angehängt** – Logo nie umfärben/verzerren/neu zeichnen; Gesichter und Fotos nicht verändern, nur zuschneiden/anordnen.
-- Nur Fakten aus der Stellenanzeige: 36–48k € pro Jahr, voll ausgestatteter Firmenwagen, hochwertiges Werkzeug & Arbeitskleidung, flexible Arbeitszeiten, flache Hierarchien, unbefristet, Vollzeit, Meisterbetrieb, 45 Mitarbeiter, Raum Köln & Ruhrgebiet, Hilden.
+- Nur Fakten aus der Stellenanzeige – Gehalt IMMER als „bis zu 48.000 € pro Jahr“ formulieren (die Anzeige nennt 36–48k, die volle Spanne ist demotivierend und bleibt weg): voll ausgestatteter Firmenwagen, hochwertiges Werkzeug & Arbeitskleidung, flexible Arbeitszeiten, flache Hierarchien, unbefristet, Vollzeit, Meisterbetrieb, 45 Mitarbeiter, Raum Köln & Ruhrgebiet, Hilden.
 - Deutsch fehlerfrei. Format 4:5 (1080×1350) + je eine 9:16-Variante (1080×1920) anfordern.
 
 **Check nach jeder Generierung:** Logo unverfälscht? Fotos unverändert? Kein verbotener Text? Deutsch korrekt? Sonst denselben Prompt mit „Korrigiere: […]" erneut ausführen.
@@ -27,7 +27,7 @@
 > – Headline (groß, fett, weiß): „FACHARBEITER GALABAU" mit kleinem Zusatz „(m/w/d)"
 > – Standort-Zeile: „📍 Hilden · Raum Köln & Ruhrgebiet"
 > – 4 Benefit-Pills (weiße abgerundete Balken mit grünem Häkchen ✓, schwarze Schrift):
->   „36–48k € pro Jahr" / „Voll ausgestatteter Firmenwagen" / „Hochwertiges Werkzeug & Kleidung" / „Unbefristet in Vollzeit"
+>   „bis zu 48.000 € pro Jahr" / „Voll ausgestatteter Firmenwagen" / „Hochwertiges Werkzeug & Kleidung" / „Unbefristet in Vollzeit"
 > – Unten ein gelber Balken (#FDC70F, schwarze Schrift): „Erhalte Dein unverbindliches Job-Angebot – ohne Lebenslauf & Anschreiben"
 > – Das angehängte Logo original und unverändert oben links.
 > **Verboten:** Telefonnummern, E-Mail-Adressen, Website-URLs, QR-Codes, Personennamen, erfundene Siegel; Logo und Foto nicht verändern oder umfärben. Sauberes, modernes Recruiting-Design, gut lesbar auf dem Handy.
@@ -68,7 +68,7 @@
 - **Primary Text:**
   👷 Facharbeiter Galabau (m/w/d) aus dem Raum Köln & Ruhrgebiet – bereit für einen Arbeitgeber, der Einsatz wirklich wertschätzt?
   Erhalte jetzt Dein unverbindliches Top Job-Angebot von der KLYMA GmbH aus Hilden. Damit sind Dir sicher:
-  ✅ Sehr gutes Gehalt: 36–48k € pro Jahr
+  ✅ Sehr gutes Gehalt: bis zu 48.000 € pro Jahr
   ✅ Voll ausgestatteter Firmenwagen
   ✅ Hochwertiges Werkzeug & Arbeitskleidung
   ✅ Unbefristete Vollzeitstelle
