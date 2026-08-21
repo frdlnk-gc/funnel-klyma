@@ -44,6 +44,7 @@
   "kunde_tab": "01 KLYMA GmbH",
   "quelle": "https://klyma.green-careers.de",
   "logo": "logo.jpg",
+  "karte": {"bild": "img/karte.jpg", "label": "Hilden"},
   "hero_bild": "img/hero.jpg",
   "bilder": [
     "img/f1.jpg",
