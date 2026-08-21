@@ -23,15 +23,24 @@
   "anforderung": "Du bist Garten- und Landschaftsbauer oder hast Erfahrung mit dem Bau von Fundamenten – und kommst aus dem Raum Köln oder der Region Bochum/Dortmund/Duisburg.",
   "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
   "fachrichtungen": [
-    {"label": "Garten- & Landschaftsbau", "icon": "🌿"},
-    {"label": "Fundament- / Betonbau", "icon": "🧱"},
-    {"label": "Anderer Bereich", "icon": "🛠️"}
-  ],
-  "qualifikationen": [
-    {"label": "Ausbildung im GaLaBau", "icon": "🎓"},
-    {"label": "Meister / Techniker", "icon": "🏅"},
-    {"label": "Erfahren ohne Ausbildung", "icon": "💪"},
-    {"label": "Quereinsteiger", "icon": "🔄"}
+    {"label": "Garten- & Landschaftsbau", "icon": "🌿", "qualifikationen": [
+      {"label": "Ausgebildeter Landschaftsgärtner", "icon": "🎓"},
+      {"label": "Meister / Techniker", "icon": "🏅"},
+      {"label": "Erfahren ohne Ausbildung", "icon": "💪"},
+      {"label": "Quereinsteiger", "icon": "🔄"}
+    ]},
+    {"label": "Fundament- / Betonbau", "icon": "🧱", "qualifikationen": [
+      {"label": "Ausgebildeter Betonbauer o. vergleichbar", "icon": "🎓"},
+      {"label": "Meister / Techniker", "icon": "🏅"},
+      {"label": "Erfahren ohne Ausbildung", "icon": "💪"},
+      {"label": "Quereinsteiger", "icon": "🔄"}
+    ]},
+    {"label": "Anderer Bereich", "icon": "🛠️", "qualifikationen": [
+      {"label": "Ausbildung in anderem Gewerk", "icon": "🎓"},
+      {"label": "Meister / Techniker", "icon": "🏅"},
+      {"label": "Erfahren ohne Ausbildung", "icon": "💪"},
+      {"label": "Quereinsteiger", "icon": "🔄"}
+    ]}
   ],
   "ueber": {
     "fakten": [
